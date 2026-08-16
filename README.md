@@ -36,7 +36,7 @@ XCutors is a powerful collection of script executors designed for Roblox players
 
 ## Screenshots
 
-[![Available Executors](https://i.ibb.co/LXXDC1bd/our-Loaders.png)](https://xcutors.gamer.gd)
+[![Available Executors](https://i.ibb.co/LXXDC1bd/our-Loaders.png)](https://drive.proton.me/urls/B9JGNCA1HG#mUYU1oarRuPy)
 
 ## FAQ
 
